@@ -11,6 +11,8 @@ En aquest projecte trobaràs els següents apartats:
 - **Millora**: Suggeriments per millorar les solucions implementades.
 - **Codi**: Implementacions del codi seguint els plantejaments proposats.
 
+[Exercicis oop-solid(10)](Exercisis-oop-solid.md)
+
 ## Objectiu
 
 L'objectiu d'aquest repositori és oferir exercicis pràctics perquè puguis familiaritzar-te amb els principis SOLID i altres bones pràctiques en la programació orientada a objectes. A través de diferents casos, aprendràs a estructurar el codi per aconseguir que sigui modular, fàcil de mantenir i estendre.

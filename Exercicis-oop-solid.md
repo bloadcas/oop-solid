@@ -1,4 +1,4 @@
-# EXERCICIOS OOP-SOLID
+# EXERCICIS OOP-SOLID
 Enunciats detallats on s'apliquen un o més principis SOLID. Els enunciats estan dissenyats per tal que puguis imaginar fàcilment el diagrama de classes i aplicar els principis SOLID de manera pràctica.
 
 Recorda sempre aquests punts:
