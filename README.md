@@ -11,7 +11,7 @@ En aquest projecte trobaràs els següents apartats:
 - **Millora**: Suggeriments per millorar les solucions implementades.
 - **Codi**: Implementacions del codi seguint els plantejaments proposats.
 
-[Exercicis oop-solid(10)](Exercisis-oop-solid)
+[Exercicis oop-solid(10)](Exercicis-oop-solid)
 
 ## Objectiu
 
